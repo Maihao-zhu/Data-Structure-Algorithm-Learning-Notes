@@ -1,3 +1,5 @@
+Data Structure form Bilibili course
+
 #a+b+c=1000，a^2+b^2=c^2(a,b,c为自然数），如何求出所有A,B,C可能的组合
 #import time
 #start_time=time.time()
