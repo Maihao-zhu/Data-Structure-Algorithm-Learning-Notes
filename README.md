@@ -1,2 +1,1 @@
-# Data-Structure-Algorithm-Learning-Notes
-Bilibili
+# Data-Structure-Algorithm-Studying-Notes
