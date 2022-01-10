@@ -80,3 +80,14 @@
     - while循环
         - 如果不加限制是死循环
         - 用法和for 一样，可以添加break和continue
+ - random 模块 生成随机数
+    - import random
+    - random.choice(‘abcde’) 参数也可以是一个列表，随机选出一个值
+    - random.sample(S, 3) 从数据源S中随机取出3个值
+    - random.randint(1,100) 打印一个随机数
+- string 模块
+    - import string
+    - string.ascii_letters 打印字母
+    - string.ascii_uppercase #大写字母
+    - string.ascii_lowercase #小写字母
+    - string.punctuation #打印特殊字符
