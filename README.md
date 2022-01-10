@@ -101,7 +101,7 @@
         - S[3,6] →顾头不顾尾
     - 不可变，不可以进行修改
     - 常用操作
-        - [str.center](http://str.center)(50,”-”) →output:—— ———
+        - [str.center](http://str.center)(50,”-”) →output:"——str.center———"
         - str.count(”l”,0,4)
         - str.endwith(”00”) →判断结尾
         - str.startwith(”00”)→判断开头
