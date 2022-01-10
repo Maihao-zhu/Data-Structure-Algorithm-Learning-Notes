@@ -106,4 +106,4 @@
         - str.endwith(”00”) →判断结尾
         - str.startwith(”00”)→判断开头
         - str.find() →字符查找
-        - str.isdigit() →判断是否是
+        - str.isdigit() →判断是否是整数
