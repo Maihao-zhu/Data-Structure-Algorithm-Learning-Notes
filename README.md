@@ -91,3 +91,19 @@
     - string.ascii_uppercase #大写字母
     - string.ascii_lowercase #小写字母
     - string.punctuation #打印特殊字符
+### Date Jan 9
+
+**要点回顾：**
+
+- 字符串的特性
+    - 有序，下标从0开始
+    - 可进行切片操作
+        - S[3,6] →顾头不顾尾
+    - 不可变，不可以进行修改
+    - 常用操作
+        - [str.center](http://str.center)(50,”-”) →output:—— ———
+        - str.count(”l”,0,4)
+        - str.endwith(”00”) →判断结尾
+        - str.startwith(”00”)→判断开头
+        - str.find() →字符查找
+        - str.isdigit() →判断是否是整数
