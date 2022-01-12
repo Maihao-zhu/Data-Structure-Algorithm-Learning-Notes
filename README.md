@@ -100,10 +100,17 @@
     - 可进行切片操作
         - S[3,6] →顾头不顾尾
     - 不可变，不可以进行修改
-    - 常用操作
-        - [str.center](http://str.center)(50,”-”) →output:"——str.center———"
-        - str.count(”l”,0,4)
-        - str.endwith(”00”) →判断结尾
-        - str.startwith(”00”)→判断开头
-        - str.find() →字符查找
-        - str.isdigit() →判断是否是整数
+- 常用操作
+    - [str.center](http://str.center)(50,”-”) →output:—— ———
+    - str.count(”l”,0,4)
+    - str.endwith(”00”) →判断结尾
+    - str.startwith(”00”)→判断开头
+    - str.find() →字符查找
+    - str.isdigit() →判断是否是整数
+    - “-”.join(str) →以怎样的形式拼接字符串
+    - 步长：str[0::2]
+        - 中间用冒号隔开
+        - 步长=2时，跳过2-1个数
+- 列表的反转与排序
+    - str.reverse()
+    - str.sort()
