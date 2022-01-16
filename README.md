@@ -114,5 +114,5 @@
 - 列表的反转与排序
     - str.reverse()
     - str.sort()
-    - str.log()
+    
  
